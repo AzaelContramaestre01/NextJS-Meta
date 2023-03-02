@@ -69,6 +69,7 @@ module.exports = {
         ],
       },
     ],
+    'object-curly-spacing': 0,
     'object-curly-newline': 0,
     'react/jsx-filename-extension': 0,
     'react/jsx-one-expression-per-line': 0,
