@@ -75,14 +75,17 @@ export const socials = [
   },
   {
     name: 'linkedin',
+    link: 'https://www.linkedin.com/in/azaelcontramaestre01/',
     url: '/linkedin.svg',
   },
   {
     name: 'instagram',
+    link: 'https://www.instagram.com/azael_val/',
     url: '/instagram.svg',
   },
   {
     name: 'facebook',
+    link: 'https://www.facebook.com/AzaelContramaestre01/',
     url: '/facebook.svg',
   },
 ];
